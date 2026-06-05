@@ -14,7 +14,6 @@ env/
 ENV/
 
 # Large datasets and model artifacts (bad practice to commit to Git)
-data/online_retail_raw.csv
 data/customer_demographics.csv
 data/model_artifacts.pkl
 
